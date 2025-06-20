@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Argha-12
 - 👀 I’m interested in SQL Developer and Data Analyst 
-- 🌱 I’m currently learning SSIS
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail: argharana8@gmail.com
 - 😄 Pronouns: ...
